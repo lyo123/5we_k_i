@@ -1,0 +1,28 @@
+
+
+
+ body{
+
+    background-image: url(splash_index.jpg);
+    background-size:    cover;
+}
+
+h2{
+   color: pink;
+   text-align:     center;
+
+      border: 5px solid rgba(0,0,255,.5);
+   cursor:wait;
+
+
+}
+li{
+  list-style:               none;
+  display:              inline-block;
+}
+ h1, p {
+  color: #ED9EAE;
+  text-align:     center;
+
+   cursor:       pointer;
+}
